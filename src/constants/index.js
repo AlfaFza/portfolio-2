@@ -30,6 +30,21 @@ export const EXPERIENCES = [
   },
 ];
 
+export const EDUCATION = [
+  {
+    degree: "Master of Computer Applications (MCA)",
+    institution: "University of Mysore",
+    location: "Mysore, India",
+    year: "2022 - 2024",
+  },
+  {
+    degree: "Bachelor of Science in Computer Science (B.Sc CS)",
+    institution: "University of Kerala",
+    location: "Kerala, India",
+    year: "2016 - 2019",
+  },
+];
+
 export const PROJECTS = [
   {
     title: "Freelance Web Applications",
