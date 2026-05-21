@@ -22,9 +22,9 @@ const Navbar = () => {
 {/*         <a href="https://github.com" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a> */}
-        <a href="https://www.instagram.com/alf.u.z/" target="_blank" rel="noopener noreferrer">
+        {/* <a href="https://www.instagram.com/alf.u.z/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
-        </a>
+        </a> */}
         <a href="https://wa.link/or7iak" target="_blank" rel="noopener noreferrer">
           <FaWhatsapp />
         </a>
