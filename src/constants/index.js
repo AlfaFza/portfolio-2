@@ -72,5 +72,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Trivandrum, Kerala, India",
   phoneNo: "+91 8075566191",
-  email: "alfiyasalahudeen97@gmail.com",
+  email: "alfz.contact@gmail.com",
 };
