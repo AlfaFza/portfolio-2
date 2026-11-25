@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Trivandrum, Kerala, India",
-  phoneNo: "+91 7994281611",
+  address: "Dubai, UAE & Kerala, India",
+  phoneNo: "+971 541272926, +91 7994281611",
   email: "alfz.contact@gmail.com",
 };
